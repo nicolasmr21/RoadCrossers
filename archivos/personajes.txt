@@ -1,0 +1,3 @@
+Naruto 2 500 600 data/naruto.png data/naruto_down.png data/naruto_left.png data/naruto_right.png data/naruto_up.png
+Goku 1 500 600 data/goku.gif data/goku_down.png data/goku_left.png data/goku_right.png data/goku_up.png
+Kakashi 3 500 600 data/kakashi.png data/kakashi_down.png data/kakashi_left.png data/kakashi_right.png data/kakashi_up.png
